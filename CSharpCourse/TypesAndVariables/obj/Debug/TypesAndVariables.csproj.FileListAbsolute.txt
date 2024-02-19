@@ -1,0 +1,7 @@
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

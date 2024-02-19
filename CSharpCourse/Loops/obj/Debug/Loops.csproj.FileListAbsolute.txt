@@ -1,0 +1,7 @@
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\aydog\Desktop\netFramework\CSharpCourse\Loops\obj\Debug\Loops.pdb
